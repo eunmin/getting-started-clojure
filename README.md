@@ -4,3 +4,12 @@
 
 [기본 구문](https://github.com/eunmin/getting-started-clojure/wiki/%EA%B8%B0%EB%B3%B8-%EA%B5%AC%EB%AC%B8)
 
+시퀀스
+
+자바
+
+함수형 프로그래밍
+
+매크로
+
+상태
